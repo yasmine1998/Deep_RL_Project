@@ -11,7 +11,7 @@ This is an example of how you may set up your project locally. To get a local co
    git clone https://github.com/your_username_/Project-Name.git
 ```
 ### Usage
- * Run the file mainpy as following:
+ * Run the file main.py as following:
 ```python
    python3 main.py
 ```
