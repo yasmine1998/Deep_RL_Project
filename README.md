@@ -1,5 +1,5 @@
 ## Getting Started
-This is an example of how you may set up your project locally. To get a local copy up and running follow these simple example steps.
+This is an example of how you may set up your project locally. To get a local copy up and running follow these simple example steps on one of the two project folders.
 ### Prerequisites
  * Gym and its dependencies: 
 ```python
